@@ -8,7 +8,8 @@ export const Hilsen = (props: pInterface) => {
         <>
             <section>
                 <article>
-                    <p style={{ backgroundColor: "pink", color: "white" }}> 
+                    <p
+                    style={{ backgroundColor: "pink", color: "white" }}> 
                         {props.textvalue}
                     </p>
                 </article>
